@@ -6,4 +6,4 @@ We show that LLMs, combined with neural topic modeling, contrastive fine-tuning,
 Beyond proof of concept, this work contributes to:<br> 
 (A) Redshift tables from GCNs <br> 
 (B) Classification of GCN types <br> 
-(C) Open-source release of all codes and extended tables in the NASA/GCN Git repo
+(C) Open-source release of all codes and extended tables
