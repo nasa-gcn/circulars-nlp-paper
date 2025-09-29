@@ -4,6 +4,6 @@ This work explores whether large language models (LLMs) can reliably separate as
 We show that LLMs, combined with neural topic modeling, contrastive fine-tuning, and retrieval-augmented generation, can cluster events, classify observations by messenger and waveband, and automatically extract GRB redshifts with high accuracy against curated databases.
 
 Beyond proof of concept, this work contributes to:<br> 
-(A) Redshift tables from GCNs
-(B) Classification of GCN types
+(A) Redshift tables from GCNs <br> 
+(B) Classification of GCN types <br> 
 (C) Open-source release of all codes and extended tables in the NASA/GCN Git repo
