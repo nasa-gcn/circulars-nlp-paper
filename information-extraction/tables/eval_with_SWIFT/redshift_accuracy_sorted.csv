@@ -1,0 +1,645 @@
+GCN,Predicted / Actual GRB,Predicted / Actual Redshift,Predicted / Actual Telescope,Predicted / Actual Redshift Type
+1,GRB970925 / No Information,0.692 / No Redshift,Swift / No Information,Spectroscopic / No Information
+10,GRB 971214 / No Information,No Redshift / No Redshift,Kitt Peak National Observatory / No Information,Spectroscopic / No Information
+100,GRB980611 / No Information,No Redshift / No Redshift,IPN3 / No Information,No Information / No Information
+101,GRB980613 / No Information,No Redshift / No Redshift,Isaac Newton Telescope / No Information,No Information / No Information
+1000,GRB010222 / No Information,1.25 +/- 0.06 / No Redshift,CFHT / No Information,Spectroscopic / No Information
+1003,GRB010222 / No Information,1.25 +/- 0.03 / No Redshift,CFHT (Canada-France-Hawaii Telescope) / No Information,Spectroscopic / No Information
+1004,GRB010222 / No Information,No Redshift / No Redshift,James Clerk Maxwell Telescope / No Information,Spectroscopic / No Information
+1005,GRB010222 / No Information,No Redshift / No Redshift,Chandra X-ray Observatory / No Information,Spectroscopic / No Information
+1007,GRB 010222 / No Information,No Redshift / No Redshift,HEGRA Cherenkov telescope system / No Information,No Information / No Information
+1008,GRB Number: Unknown / No Information,No Redshift / No Redshift,BeppoSAX / No Information,No Information / No Information
+1009,GRB010222 / No Information,No Redshift / No Redshift,Vatican Advanced Technology Telescope (VATT) / No Information,Photometric / No Information
+2779,GRB 041006 / 200522A,No Redshift / 0.4,Bisei Astronomical Observatory (BAO) / SDSS,Photometric / Photometric
+3088,GRB 050126 / 050126,1.29 / 1.29,Keck II telescope / Keck,Spectroscopic / Spectroscopic
+3101,GRB 050315 / 050315,1.949 / 1.949,Magellan / Magellan,Spectroscopic / Spectroscopic
+3122,GRB 050318 / 050318,z=1.44 / 1.44,Magellan/Baade telescope / Magellan,Spectroscopic / Spectroscopic
+3136,GRB 050319 / 050319,3.24 / 3.24,Nordic Optical Telescope (NOT) / NOT,Spectroscopic / Spectroscopic
+3176,GRB 050401 / 050401,z = 2.90 / 2.9,Very Large Telescope (VLT) / VLT,Spectroscopic / Spectroscopic
+3368,GRB 050505 / 050505,4.27 / 4.27,Keck I 10-m telescope / Keck,Spectroscopic / Spectroscopic
+3399,GRB 050509b / 050509B,0.2249 +/- 0.0008 / 0.225,Keck/DEIMOS / Keck,Spectroscopic / Spectroscopic
+3483,GRB 050525 / 050525A,0.606 / 0.606,Gemini-North telescope / GMOS,Spectroscopic / Spectroscopic
+3542,GRB 050416 / 050416A,0.6535 +/- 0.0002 / 0.6535,10-m Keck I Telescope / Keck,Spectroscopic / Spectroscopic
+3679,GRB 050724 / 050724,z=0.257 / 0.257,GMOS / GMOS,Spectroscopic / Spectroscopic
+3700,GRB 050724 / 050724,0.258 +/- 0.002 / 0.258,LRISb / Keck,Spectroscopic / Spectroscopic
+3710,GRB 050730 / 050730,3.97 / 3.97,William Herschel Telescope at the Observatorio del Roque de los Muchachos on La Palma / WHT,Spectroscopic / Spectroscopic
+3732,GRB 050730 / 050730,3.96855 +/- 0.00005 / 3.96855,MIT / Magellan II,Spectroscopic / Spectroscopic
+3746,GRB050730 / 050730,3.968 / 3.968,ESO / VLT,Spectroscopic / Spectroscopic
+3749,GRB 050802 / 050802,z=1.71 / 1.71,Nordic Optical Telescope / NOT,Spectroscopic / Spectroscopic
+3758,GRB 050803 / 050803,0.422 / 0.422,ESI/Keck II / Keck,Spectroscopic / Spectroscopic
+3809,GRB050814 / 050814,No Redshift / 5.3,Nordic Optical Telescope (NOT) / NOT,Spectroscopic / Photometric
+3833,GRB 050820 / 050820A,2.612 +/- 0.002 / 2.612,HIRES/Keck I / Keck,Spectroscopic / Spectroscopic
+3860,GRB050820C / 050820A,2.6147 / 2.6147,VLT/UT2 / VLT,Spectroscopic / Spectroscopic
+3874,GRB 050824 / 050824,0.83 / 0.83,ESO Very Large Telescope (VLT) / VLT,Spectroscopic / Spectroscopic
+3924,GRB 050904 / 050904,6.10 / 6.10,ESO VLT-UT1 / VLT,Photometric / Photometric
+3937,GRB 050904 / 050904,6.29 / 6.29,Subaru 8.2m telescope / Subaru,Spectroscopic / Spectroscopic
+3948,GRB 050908 / 050908,3.350 +- 0.005 / 3.350,ESO-VLT UT2 / VLT,Spectroscopic / Spectroscopic
+3949,GRB 050908 / 050908,3.3437 +/- 0.0002 / 3.3437,Gemini-North telescope / GMOS,Spectroscopic / Spectroscopic
+3971,GRB 050908 / 050908,z=3.3440 +/- 0.0001 / 3.3440,Keck/DEIMOS / Keck,Spectroscopic / Spectroscopic
+4029,GRB 050922C / 050922C,2.198+-0.001 / 2.198,NOT (La Palma) / NOT,Spectroscopic / Spectroscopic
+4032,GRB050922C / 050922C,2.198+/-0.001 / 2.198,DOLORES@TNG / TNG,Spectroscopic / Spectroscopic
+4044,GRB050922C / 050922C,2.199 / 2.199,VLT/Kueyen / VLT,Spectroscopic / Spectroscopic
+4186,GRB 051016B / 051016B,0.9364 / 0.9364,Keck I telescope / Keck,Spectroscopic / Spectroscopic
+4221,GRB 051109 / 051109A,2.346 / 2.346,Hobby-Eberly Telescope (+ Marcario Low-Resolution Spectrograph) / HET,Spectroscopic / Spectroscopic
+4384,GRB 051221 / 051221A,0.5465 / 0.547,Gemini/GMOS / Gemini,Spectroscopic / Spectroscopic
+4520,GRB 060115 / 060115,3.53 / 3.53,ESO-VLT / VLT,Spectroscopic / No Information
+4539,GRB060108 / 060108,2.03 / 2.03,"BRi', Faulkes North Telescope and UKIRT / Liverpool",Photometric / Photometric
+4583,GRB 060116 / 060116,z~6.6 / ~4.0 or ~6.6,VLT+FORS2 / VLT,Photometric / Photometric
+4591,GRB 060124 / 060124,0.82 / 2.30,MDM 2.4m telescope / MDM,Spectroscopic / Spectroscopic
+4592,GRB 060124 / 060124,2.297 / 2.297,Keck 10-m telescope / Keck/ESI,Spectroscopic / Spectroscopic
+4593,GRB 060124 / 060124,2.296 / 2.296,Keck Observatory / Keck/LRIS,Spectroscopic / Spectroscopic
+4622,GRB 060123 / 060123,z=1.099 / 1.099,Gemini-N 8-m telescope / Gemini,Spectroscopic / Spectroscopic
+4686,GRB 060206 / 060206,close to 5 / 4.045,Nordic Optical Telescope / NOT,Spectroscopic / Spectroscopic
+4692,GRB 060206 / 060206,4.045 / 4.045,ALFOSC / NOT,Spectroscopic / Spectroscopic
+4701,GRB 060206 / 060206,4.048 +/- 0.001 / 4.048,Lick Observatory / Lick,Spectroscopic / Spectroscopic
+4703,GRB060206 / 060206,4.05 / 4.05,Subaru Telescope / Subaru,Spectroscopic / Spectroscopic
+4729,GRB060210 / 060210,z=3.91 / 3.91,Gemini-North / Gemini,Spectroscopic / Spectroscopic
+4792,GRB 060218 / 060218,0.0331 / 0.0331,MDM Observatory / MDM,Spectroscopic / Spectroscopic
+4803,GRB060218 / 060218,0.033 / 0.033,VLT-Antu equipped with FORS2 and low resolution grating 300V+GG435. / VLT,Spectroscopic / Spectroscopic
+4804,GRB 060218 / 060218,0.033 / 0.033,GMOS on the Gemini-south telescope / Gemini,Spectroscopic / Spectroscopic
+4809,GRB 060218 / 060218,0.033 / 0.033,BTA telescope of SAO-RAS in Zelenchuk / BTA,Spectroscopic / Spectroscopic
+4815,GRB 060223 / 060223A,4.41 / 4.41,Keck-I 10-m telescope / Keck,Spectroscopic / Spectroscopic
+4974,GRB060418 / 060418,"0.602, 0.655, 0.602, 1.489 / 1.489",ESO's Very Large Telescope (VLT) / VLT,Spectroscopic / Spectroscopic
+5002,GRB060418 / 060418,z=1.4901 +/- 0.0001 / 1.490,Magellan Clay telescope / Magellan,Spectroscopic / Spectroscopic
+5052,GRB 060502 / 060502A,z ~ 1.51 / ~1.51,Gemini North telescope / Gemini,Spectroscopic / Spectroscopic
+5104,GRB 060510b / 060510B,4.9 / 4.9,Gemini North telescope / Gemini,Spectroscopic / No Information
+5123,GRB 060505 / 060505,0.089 / 0.089,Gemini South Telescope / Gemini,Spectroscopic / Spectroscopic
+5155,GRB060522 / 060522,5.11 / 5.11,Keck I / Keck I,Spectroscopic / Spectroscopic
+5170,GRB 060526 / 060526,3.21 / 3.21,Magellan/Clay telescope / Magellan,Spectroscopic / Spectroscopic
+5217,GRB 060512 / 060512,0.4428 / 0.4428,Keck I (+LRIS) / Keck I,Spectroscopic / Spectroscopic
+5218,GRB 060604 / 060604,2.68 / 2.1357,Nordic Optical telescope (+ALFOSC) / NOT,Spectroscopic / Spectroscopic
+5223,GRB060605 / 060605,z=3.8 / 3.8,ANU 2.3m telescope / ANU,Spectroscopic / Spectroscopic
+5226,GRB 060605 / 060605,3.7 / 3.7,Southern African Large Telescope (SALT) / SALT,Spectroscopic / Spectroscopic
+5237,GRB 060607 / 060607A,z=3.082 / 3.082,VLT (Very Large Telescope) / VLT,Spectroscopic / Spectroscopic
+5238,GRB 060502B / 060502B,0.287 / 0.287,Keck I (+LRIS) / Keck I,Spectroscopic / Spectroscopic
+5275,GRB 060614 / 060614,0.125 / 0.13,Gemini South / Gemini,Spectroscopic / Spectroscopic
+5276,GRB 060614 / 060614,0.125 / 0.125,VLT+FORS2 / VLT,Spectroscopic / Spectroscopic
+5283,GRB 050223 / 050223,0.5915 / 0.5915,Magellan/Clay telescope / Magellan,Spectroscopic / Spectroscopic
+5298,GRB 060707 / 060707,z = 3.43 / 3.43,FORS1 on the Very Large Telescope (VLT) / VLT,Spectroscopic / Spectroscopic
+5319,GRB 060708 / 060708,z = 0.249 / z<2.3,Very Large Telescope (VLT) / VLT,Spectroscopic / No Information
+5320,GRB 060714 / 060714,2.71 / 2.71,Very Large Telescope (VLT) / VLT,Spectroscopic / Spectroscopic
+5373,GRB 060729 / 060729,0.54 / 0.54,"['VLT', 'Gemini south'] / VLT, Gemini South",Spectroscopic / Spectroscopic
+5376,GRB 060218 / SN 2006aj / 060218,0.033 / 0.033,Keck I (+ LRIS) / Keck I,Spectroscopic / Spectroscopic
+5387,GRB051109B / 051109B,0.080 / 0.080,Keck I (+ LRIS) / Keck I,Spectroscopic / Spectroscopic
+5489,GRB 060605 / 060605,z=3.711 / 3.78,Calar Alto 3.5-m telescope / Calar Alto,Spectroscopic / No Information
+5513,GRB 060904B / 060904B,0.703 / 0.703,VLT + FORS1 / VLT,Spectroscopic / Spectroscopic
+5535,GRB 060906 / 060906,3.685 / 3.685,ESO's Very Large Telescope UT2 (Kueyen) / VLT,Spectroscopic / Spectroscopic
+5555,GRB 060908 / 060908,2.43 +/- 0.05 / 1.8836,Gemini-North/GMOS / Gemini-North,Spectroscopic / No Information
+5617,GRB 060912A / 060912A,0.937 / 0.937,VLT (Very Large Telescope) / VLT,Spectroscopic / Spectroscopic
+5626,GRB060926 / 060926,3.20 / 3.208,ESO's Very Large Telescope UT2 (Kueyen) / VLT,Spectroscopic / Spectroscopic
+5637,GRB 060926 / 060926,3.208 / 3.208,VLT / VLT,Spectroscopic / Spectroscopic
+5651,GRB 060927 / 060927,5.6 / 5.6,ESO Very Large Telescope / VLT,Spectroscopic / Spectroscopic
+5715,GRB061007 / 061007,1.261 / 1.261,Magellan Clay telescope at the Las Campanas Observatory / Magellan Clay,Spectroscopic / Spectroscopic
+5716,GRB 061007 / 061007,1.262 / 1.262,Very Large Telescope (VLT) / VLT,Spectroscopic / Spectroscopic
+5809,GRB 061110B / 061110B,3.44 / 3.44,ESO-VLT UT2 equipped with FORS1 / VLT,Spectroscopic / No Information
+5826,GRB061121 / 061121,1.314 / 1.314,Keck I 10m telescope + LRIS / Keck I,Spectroscopic / Spectroscopic
+5946,GRB061210 / 061210,0.41 / 0.41,10-m Keck I telescope / Keck,Spectroscopic / Spectroscopic
+5952,GRB 061201 / 061201,0.111 / 0.111,Magellan / Magellan,Spectroscopic / No Information
+5962,GRB 061222b / 061222B,3.355 / 3.355,No Information / Magellan,Spectroscopic / Spectroscopic
+5965,GRB 061217 / 061217,0.827 / 0.827,No Information / Magellan,Spectroscopic / Spectroscopic
+5982,GRB 050826 / 050826,0.297+/-0.001 / 0.297,MDM 2.4m telescope / MDM,Spectroscopic / Spectroscopic
+6010,GRB 070110 / 070110,2.352 +- 0.001 / 2.352,ESO VLT equipped with FORS2 / VLT,Spectroscopic / Spectroscopic
+6083,GRB 070208 / 070208,z=1.165 / 1.165,Gemini-North telescope + Gemini Multi-Object Spectrograph / Gemini-North,Spectroscopic / Spectroscopic
+6166,GRB 060605 / 060605,3.78 / 3.78,TLS Tautenburg / Calar Alto,Spectroscopic / No Information
+6202,GRB 070306 / 070306,z=1.497 / 1.497,ESO/VLT / VLT,Spectroscopic / Spectroscopic
+6216,GRB 070318 / 070318,0.836 / 0.836,ESO/VLT UT2 equipped with FORS1 / VLT,Spectroscopic / Spectroscopic
+6217,GRB070318 / 070318,0.840 +/- 0.002 / 0.840,"GMOS, Gemini south telescope / Gemini/Magellan",Spectroscopic / Spectroscopic
+6283,GRB 070411 / 070411,2.954 / 2.954,Very Large Telescope (VLT) / VLT,Spectroscopic / Spectroscopic
+6322,GRB070419A / 070419A,0.97 / 0.97,10-m Keck I telescope / Keck I,Spectroscopic / Spectroscopic
+6379,GRB 070506 / 070506,2.31 / 2.31,VLT (Very Large Telescope) / VLT,Spectroscopic / Spectroscopic
+6398,GRB 070508 / 070508,z = 0.82 / 0.82,Very Large Telescope (VLT) / VLT,Spectroscopic / Spectroscopic
+6444,GRB 070521 / 070521,0.553 / 0.553,Subaru Telescope / Subaru,Spectroscopic / Spectroscopic
+6470,GRB 050729 / 070529,2.4996 / 2.4996,Gemini North telescope / Gemini North,Spectroscopic / Spectroscopic
+6499,GRB 070611 / 070611,2.04 / 2.04,VLT / VLT,Spectroscopic / No Information
+6556,GRB070612A / 070612A,0.617 / 0.617,Gemini North / Gemini North,Spectroscopic / Spectroscopic
+6651,GRB 070721B / 070721B,z=3.626 / 3.626,ESO-VLT / VLT,Spectroscopic / No Information
+6663,GRB 060814 / 060814,0.84 / 0.84,Keck I 10m telescope + LRIS / Keck I,Spectroscopic / Spectroscopic
+6665,GRB070724 / 070724A,0.457 / 0.457,Gemini South / Gemini South,Spectroscopic / Spectroscopic
+6666,GRB 070724 / 070724A,0.457 / 0.457,ESO-VLT equipped with FORS2 / VLT,Spectroscopic / Spectroscopic
+6698,GRB 070802 / 070802,2.45 / 2.45,ESO VLT + FORS2 / VLT,Spectroscopic / No Information
+6741,GRB 070810 / 070810A,z=2.17 / 2.17,Keck I + LRIS / Keck I,Spectroscopic / Spectroscopic
+6759,GRB 061110A / 061110A,0.758 / 0.758,VLT / VLT,Spectroscopic / Spectroscopic
+6836,GRB 070714B / 070714B,z=.92 / 0.92,Gemini Observatory / Gemini,Spectroscopic / Spectroscopic
+6850,GRB 071003 / 071003,1.100 / 1.100,Keck I + LRIS / Keck I,Spectroscopic / Spectroscopic
+6851,GRB 071003 / 071003,0.937 / >0.937,ESO-Very Large Telescope / VLT,Spectroscopic / Spectroscopic
+6864,GRB 071010 / 071010A,0.98 / 0.98,Keck/LRIS / Keck I,Spectroscopic / Spectroscopic
+6888,GRB071010B / 071010B,0.947 / 0.947,Gemini North telescope / Gemini North,Spectroscopic / Spectroscopic
+6890,GRB 071010B / 071010B,z=0.947 / 0.947,Keck/LRIS / Keck I,Spectroscopic / Spectroscopic
+6928,GRB 071010B / 071010B,0.947 / 0.947,Keck II 10m telescope + DEIMOS / Keck II,Spectroscopic / Spectroscopic
+6952,GRB 071020 / 071020,z = 2.145 / >2.145,Very Large Telescope (VLT) / VLT,Spectroscopic / Spectroscopic
+6984,GRB 071020 / 071020,2.142  0.002 / 2.142,6.0m BTA telescope (+SCORPIO) of the SAO-RAS / BTA,Spectroscopic / Spectroscopic
+6985,GRB 071021 / 071021,z~5 / 2.4520,8.2m VLT+FORS2 / VLT,Photometric / Spectroscopic
+6997,GRB 060602A / 060602A,z = 0.787 / 0.787,Very Large Telescope (VLT) / VLT,Spectroscopic / Spectroscopic
+7023,GRB 071031 / 071031,2.692 / 2.692,ESO VLT / VLT,Spectroscopic / No Information
+7086,GRB 071112C / 071112C,0.823 / 0.823,Gemini North telescope / Gemini North,Spectroscopic / Spectroscopic
+7088,GRB 071112C / 071112C,0.8230 +/- 0.0003 / 0.8230,VLT / VLT,Spectroscopic / Spectroscopic
+7117,GRB 071117 / 071117,z=1.331 / 1.331,ESO VLT / VLT,Spectroscopic / Spectroscopic
+7124,GRB071122 / 071122,z=1.14 / 1.14,Gemini North telescope / Gemini North,Spectroscopic / Spectroscopic
+7140,GRB 070429B / 070429B,0.904 / 0.904,Keck I + LRIS / Keck I,Spectroscopic / No Information
+7152,GRB 071227 / 071227,0.383 / 0.383,ESO-VLT / VLT,Spectroscopic / Spectroscopic
+7154,GRB 071227 / 071227,0.384 / 0.384,Magellan/Baade telescope / Magellan,Spectroscopic / Spectroscopic
+7286,GRB 080210 / 080210,2.641 / 2.641,Very Large Telescope (VLT) / VLT,Spectroscopic / Spectroscopic
+7290,GRB 080210 / 080210,2.64 / 2.64,Hobby-Eberly Telescope / Hobby-Eberly,Spectroscopic / Spectroscopic
+7388,GRB 080310 / 080310,2.4266 / 2.4266,UCO/Lick Observatory / Lick,Spectroscopic / Spectroscopic
+7389,GRB 080310 / 080310,2.42 / 2.42,Carnegie / Magellan,Spectroscopic / Spectroscopic
+7391,GRB 080310 / 080310,z=2.43 / 2.43,ESO's VLT Kueyen / VLT-Kueyen,Spectroscopic / Spectroscopic
+7397,GRB 080310 / 080310,2.4266 / 2.4266,Keck/DEIMOS / Keck,Spectroscopic / Spectroscopic
+7451,GRB 080319B / 080319B,0.937 / 0.937,VLT/UVES / VLT Kueyen,Spectroscopic / Spectroscopic
+7456,GRB 080319B / 080319B,0.937 / 0.937,Hobby-Eberly Telescope / Hobby-Eberly,Spectroscopic / Spectroscopic
+7517,GRB 080319C / 080319C,1.95 / 1.95,Gemini North / Gemini-North,Spectroscopic / Spectroscopic
+7544,GRB 080330 / 080330,z=1.51 / 1.51,NOT / NOT,Spectroscopic / Spectroscopic
+7547,GRB 080330 / 080330,1.51 / 1.51,Hobby-Eberly Telescope / Hobby-Eberly,Spectroscopic / Spectroscopic
+7587,GRB 080411 / 080411,1.03 / 1.03,ESO VLT / VLT,Spectroscopic / Spectroscopic
+7601,GRB 080413B / 080413B,1.10 / 1.10,ESO VLT / VLT,Spectroscopic / Spectroscopic
+7602,GRB 080413A / 080413A,2.433 / 2.433,VLT / VLT,Spectroscopic / Spectroscopic
+7615,GRB 080413B / 080413B,1.10 / 1.10,Gemini South / Gemini-South,Spectroscopic / Spectroscopic
+7616,GRB 080413A / 080413A,2.43 / 2.43,Gemini South telescope / Gemini-South,Spectroscopic / Spectroscopic
+7650,GRB 080430 / 080430,~0.75 / ~0.75,Calar Alto telescope (+CAFOS) / Calar Alto,Spectroscopic / Spectroscopic
+7654,GRB 080430 / 080430,0.767 / 0.767,Hobby-Eberly Telescope (HET) / Hobby-Eberly,Spectroscopic / Spectroscopic
+7747,GRB 080516 / 080516,z = 3.2 +/- 0.3 / 3.2,GROND / MPI/ESO,Photometric / Photometric
+7757,GRB 080520 / 080520,1.545 / 1.545,Paranal Observatory / VLT,Spectroscopic / Spectroscopic
+7797,GRB080603B / 080603B,2.69 / 2.69,NOT telescope / NOT,Spectroscopic / No Information
+7815,GRB 080603B / 080603B,2.69 / 2.69,Hobby-Eberly Telescope (HET) / Hobby-Eberly,Spectroscopic / Spectroscopic
+7818,GRB 080604 / 080604,1.416 / 1.416,Gemini-North / Gemini-North,Spectroscopic / Spectroscopic
+7832,GRB 080605 / 080605,z = 1.6398 +/- 0.0006 / 1.6398,Very Large Telescope (VLT) / VLT,Spectroscopic / Spectroscopic
+7849,GRB 080607 / 080607,z=3.036 / 3.036,Keck I (+LRIS) / Keck I,Spectroscopic / No Information
+7949,GRB 080707 / 080707,1.23 / 1.23,ESO VLT / VLT,Spectroscopic / Spectroscopic
+7962,GRB 080710 / 080710,z=0.845 / 0.845,Gemini-South (+GMOS) / Gemini-South,Spectroscopic / Spectroscopic
+7997,GRB080721 / 080721,2.602 / 2.602,Italian TNG telescope / TNG,Spectroscopic / Spectroscopic
+7998,GRB 080721 / 080721,z ~ 2.6 / 2.591,Nordic Optical Telescope (NOT) / NOT,Spectroscopic / Spectroscopic
+8058,GRB 080804 / 080804,2.2045 / 2.2045,VLT / VLT,Spectroscopic / Spectroscopic
+8065,GRB080804 / 080804,2.20 / 2.20,Gemini-South / Gemini-South,Spectroscopic / Spectroscopic
+8077,GRB 080805 / 080805,1.505 / 1.505,VLT / VLT,Spectroscopic / Spectroscopic
+8083,GRB 080810 / 080810,3.35 / 3.35,Keck/HIRES / Keck,Spectroscopic / Spectroscopic
+8088,GRB 080810 / 080810,3.35 / 3.35,RTT150 / RTT150,Spectroscopic / Spectroscopic
+8089,GRB 080810 / 080810,z~3.35 / 3.35,Nordic Optical Telescope (NOT) / NOT,Spectroscopic / Spectroscopic
+8191,GRB 080905B / 080905B,2.374 / 2.374,ESO VLT / VLT,Spectroscopic / Spectroscopic
+8212,SGR J0501+4516 / 080906,No Redshift / 2.0,Green Bank Telescope (GBT) / UVOT,No Information / Photometric
+8223,GRB 080913 / 080913,6.44 +- 0.3 / 6.44,GROND / ESO/MPI,Photometric / Photometric
+8225,GRB080913 / 080913,z=6.7 / 6.7,VLT (Very Large Telescope) / VLT,Spectroscopic / No Information
+8254,GRB080916A / 080916A,0.689 / 0.689,ESO VLT equipped with FORS1 / VLT,Spectroscopic / Spectroscopic
+8301,GRB 080928 / 080928,z=0.736 / 1.692,"ESO's VLT on Cerro Paranal, Chile / VLT",Spectroscopic / Spectroscopic
+8304,GRB080928 / 080928,No Redshift / 1.69,No Information / Gemini-South,No Information / Spectroscopic
+8335,GRB 081007 / 081007,z=0.5295+/-0.0001 / 0.5295,GMOS on the 8-m Gemini-South telescope / Gemini-South,Spectroscopic / Spectroscopic
+8346,GRB 081008 / 081008,z = 1.967 / 1.967,Gemini-South / Gemini-South,Spectroscopic / Spectroscopic
+8350,GRB 081008 / 081008,1.9685 / 1.9685,ESO VLT / VLT,Spectroscopic / Spectroscopic
+8434,GRB 081028 / 081028A,z=3.038 / 3.038,Magellan/Clay 6.5-m telescope / Magellan/Clay,Spectroscopic / Spectroscopic
+8438,GRB 081029 / 081029,3.8479+/-0.0002 / 3.8479,ESO-VLT / VLT,Spectroscopic / Spectroscopic
+8448,GRB 081029 / 081029,3.847 / 3.847,Gemini-South / Gemini-South,Spectroscopic / Spectroscopic
+8531,GRB 081118 / 081118,2.58 / 2.58,ESO-VLT / VLT,Spectroscopic / Spectroscopic
+8542,GRB 081121 / 081121,2.512 / 2.512,Magellan/Clay 6.5-m telescope / Magellan/Clay,Spectroscopic / No Information
+8601,GRB081203A / 081203A,~2.1 / 2.1,Swift/UVOT / UVOT,Spectroscopic / Spectroscopic
+8712,GRB081222 / 081222,~2.7 / ~2.7,Swift / UVOT,Spectroscopic / No Information
+8713,GRB 081222 / 081222,2.77 / 2.77,Gemini-South / Gemini-South,Spectroscopic / Spectroscopic
+8718,GRB 081222 / 081222,2.77 / 2.77,Gemini-North/GMOS / Gemini-North,Spectroscopic / Spectroscopic
+8766,GRB 090102 / 090102,z = 1.547 / 1.547,NOT/ALFOSC / NOT,Spectroscopic / No Information
+8773,GRB090102 / 090102,1.546 / 1.546,"Palomar 200"" Hale telescope / Palomar 200""",Spectroscopic / Spectroscopic
+8888,GRB 090205 / 090205,4.7 +- 0.3 / 4.7,2.2m ESO/MPI telescope at La Silla Observatory (Chile) / ESO/MPI,Photometric / Photometric
+8892,GRB 090205 / 090205,4.6497  0.0025 / 4.6497,VLT / VLT,Spectroscopic / Spectroscopic
+8994,GRB 090313 / 090313,z=3.375 / 3.375,Gemini-South (GMOS) / Gemini-South,Spectroscopic / Spectroscopic
+9012,GRB 090313 / 090313,3.375 / 3.375,ESO VLT / VLT,Spectroscopic / Spectroscopic
+9015,GRB 090313 / 090313,3.3721  0.0004 / 3.3721,ESO Melipal telescope of the Paranal Observatory / Melipal,Spectroscopic / Spectroscopic
+9151,GRB 090418 / 090418A,1.608 / 1.608,Lick 3-meter telescope / Lick,Spectroscopic / Spectroscopic
+9216,GRB 090423 / 090423,z ~ 7.6 / ~8.1,Italian TNG 3.6m telescope / TNG,Spectroscopic / No Information
+9222,GRB090423 / 090423,z~8.1 / ~8.1,NICS/Amici combination / TNG,Photometric / No Information
+9243,GRB 090424 / 090424,0.544 / 0.544,GMOS on Gemini-South / Gemini-South,Spectroscopic / Spectroscopic
+9250,GRB 090424 / 090424,0.544 / 0.544,William Herschel Telescope (WHT) / WHT,Spectroscopic / No Information
+9264,GRB 090426 / 090426,2.609 / 2.609,Keck-I / Keck-I,Spectroscopic / Spectroscopic
+9269,GRB 090426 / 090426,2.609 / 2.609,ESO VLT / VLT,Spectroscopic / Spectroscopic
+9353,GRB090510 / 090510,z=0.903 / 0.903,VLT/FORS2 / VLT,Spectroscopic / Spectroscopic
+9382,GRB 090516 / 090516A,4.1 +- 0.3 / 4.1,2.2m ESO/MPI telescope at La Silla Observatory (Chile) / ESO/MPI,Photometric / Photometric
+9383,GRB 090516 / 090516A,4.109+/-0.002 / 4.109,ESO VLT / VLT,Spectroscopic / Spectroscopic
+9408,GRB 090519 / 090519,3.9+0.4-0.7 / 3.9,2.2m ESO/MPI telescope at La Silla Observatory (Chile) / ESO/MPI,Photometric / Photometric
+9409,GRB 090519 / 090519,z = 3.85 / 3.85,ESO Very Large Telescope (VLT) / VLT,Spectroscopic / Spectroscopic
+9457,GRB 090529 / 090529,2.63 / 2.625,ESO Very Large Telescope / VLT,Spectroscopic / Spectroscopic
+9518,GRB 090618 / 090618,z = 0.54 / 0.54,Lick Observatory / Lick,Spectroscopic / Spectroscopic
+9542,GRB090618 / 090618,0.54 / 0.54,SAO RAS / SAO RAS,Spectroscopic / Spectroscopic
+9673,GRB090715B / 090715B,3.00 / 3.00,William Herschel Telescope (WHT) / WHT,Spectroscopic / No Information
+9712,GRB090726 / 090726,2.71 / 2.71,SAO RAS 6-m telescope in Caucasus using SCORPIO / SAO RAS,Spectroscopic / Spectroscopic
+9761,GRB 090809 / 090809,2.737 +/- 0.002 / 2.737,"ESO's VLT (Paranal Observatory, Chile) / VLT",Spectroscopic / No Information
+9771,GRB 090812 / 090812,2.452 / 2.452,VLT (Paranal observatory) / VLT,Spectroscopic / Spectroscopic
+9797,GRB 090814A / 090814A,0.696 / 0.696 < z < 2.2,VLT (Paranal observatory) / VLT,Spectroscopic / Spectroscopic
+9947,GRB 090926B / 090926B,1.24 / 1.24,Very Large Telescope (VLT) / VLT,Spectroscopic / Spectroscopic
+9958,GRB 090927 / 090927,1.37 / 1.37,Very Large Telescope (VLT) / VLT,Spectroscopic / Spectroscopic
+10000,GRB 090904A / No Information,No Redshift / No Redshift,NOT equipped with StanCam / No Information,No Information / No Information
+10001,GRB 090621 / No Information,No Redshift / No Redshift,Dolomiti Astronomical Observatory / No Information,Spectroscopic / No Information
+10002,GRB 090518 / No Information,No Redshift / No Redshift,CTIO / No Information,No Information / No Information
+10003,GRB 090926A / No Information,No Redshift / No Redshift,CTIO / No Information,No Information / No Information
+10004,GRB 090910 / No Information,No Redshift / No Redshift,AGILE / No Information,Spectroscopic / No Information
+10005,GRB 091010 / No Information,No Redshift / No Redshift,No Information / No Information,No Information / No Information
+10006,GRB 091010 / No Information,No Redshift / No Redshift,Swift / No Information,Spectroscopic / No Information
+10007,GRB 091010 / No Information,No Redshift / No Redshift,Swift / No Information,No Information / No Information
+10008,GRB 091010 / No Information,No Redshift / No Redshift,2.2m ESO/MPI telescope at La Silla Observatory (Chile) / No Information,No Information / No Information
+10009,GRB 090926A / No Information,No Redshift / No Redshift,CORONAS-PHOTON satellite / No Information,No Information / No Information
+10010,GRB090929A / No Information,No Redshift / No Redshift,CORONAS-PHOTON satellite / No Information,No Information / No Information
+10011,GRB 091010 / No Information,No Redshift / No Redshift,The Hermitage Observatory / No Information,No Information / No Information
+10012,GRB 091010 / No Information,No Redshift / No Redshift,Swift-XRT / No Information,Spectroscopic / No Information
+10013,GRB 091010 / No Information,No Redshift / No Redshift,Konus-Wind / No Information,Spectroscopic / No Information
+10014,GRB 091010 / No Information,No Redshift / No Redshift,RXTE / No Information,No Information / No Information
+10015,GRB 090530A / No Information,No Redshift / No Redshift,"14"" Dark Sky Observatory / No Information",Spectroscopic / No Information
+10016,GRB 090531A / No Information,No Redshift / No Redshift,PROMPT / No Information,No Information / No Information
+10017,GRB 091010 / No Information,No Redshift / No Redshift,Faulkes Telescope North (FTN) / No Information,No Information / No Information
+10018,GRB 091010 / No Information,No Redshift / No Redshift,Fermi Gamma-Ray Burst Monitor / No Information,No Information / No Information
+10019,GRB080916c / No Information,No Redshift / No Redshift,Australia Telescope Compact Array (ATCA) / No Information,No Information / No Information
+10020,GRB090926a / No Information,No Redshift / No Redshift,Australia Telescope Compact Array (ATCA) / No Information,No Information / No Information
+10021,GRB090927 / No Information,No Redshift / No Redshift,Australia Telescope Compact Array (ATCA) / No Information,No Information / No Information
+10022,GRB 091010 / No Information,No Redshift / No Redshift,AGILE / No Information,No Information / No Information
+10023,GRB 091010 / No Information,No Redshift / No Redshift,Suzaku / No Information,No Information / No Information
+10024,GRB 091010 / No Information,- / No Redshift,Swift-XRT / No Information,Spectroscopic / No Information
+10025,GRB 090815 / No Information,No Redshift / No Redshift,IBAS in IBIS/ISGRI data / No Information,Photometric / No Information
+10026,GRB 091015 / No Information,No Redshift / No Redshift,No Information / No Information,No Information / No Information
+10027,GRB 091010 / No Information,No Redshift / No Redshift,FTS (2-m Faulkes Telescope South) / No Information,No Information / No Information
+10028,GRB 090726 / No Information,No Redshift / No Redshift,60/90 cm Schmidt telescope / No Information,Spectroscopic / No Information
+10029,GRB 091015 / No Information,No Redshift / No Redshift,Russian-Turkish 1.5-m telescope (RTT150) / No Information,No Information / No Information
+10030,GRB 091010 / No Information,No Redshift / No Redshift,Shajn telescope of CrAO / No Information,Photometric / No Information
+10034,GRB 091018 / No Information,0.601 (+0.003/-0.005) / No Redshift,Swift / No Information,Spectroscopic / No Information
+10035,GRB 091015 / No Information,0.910 / No Redshift,"CTIO PROMPT 16"" Telescope / No Information",Spectroscopic / No Information
+10036,GRB 091018 / No Information,No Redshift / No Redshift,ROTSE-IIIc / No Information,Spectroscopic / No Information
+10037,GRB 091018 / No Information,No Redshift / No Redshift,Swift-XRT / No Information,No Information / No Information
+10038,GRB091018 / 091018,0.971 / 0.971,Magellan Clay Telescope / Magellan Clay,Spectroscopic / Spectroscopic
+10039,GRB 091018 / No Information,No Redshift / No Redshift,2.2m ESO/MPI telescope at La Silla Observatory (Chile) / No Information,No Information / No Information
+10040,GRB 091018 / No Information,No Redshift / No Redshift,Swift / No Information,Spectroscopic / No Information
+10042,GRB 091018 / 091018,0.9710 +/- 0.0003 / 0.9710,X-shooter / VLT,Spectroscopic / Spectroscopic
+10043,GRB 091018 / No Information,No Redshift / No Redshift,BOOTES-3 / No Information,Spectroscopic / No Information
+10044,GRB 091018 / No Information,No Redshift / No Redshift,Faulkes Telescope South (Australia) / No Information,No Information / No Information
+10046,GRB 091018 / No Information,-0.95 / No Redshift,Skynet/PROMPT / No Information,Photometric / No Information
+10047,GRB 091018 / No Information,No Redshift / No Redshift,miniTAO telescope / No Information,Spectroscopic / No Information
+10048,GRB 091020 / No Information,0.342 / No Redshift,Swift / No Information,Spectroscopic / No Information
+10050,GRB 091020 / No Information,No Redshift / No Redshift,Swift-XRT / No Information,No Information / No Information
+10051,GRB 091020 / No Information,No Redshift / No Redshift,Swift-BAT / No Information,No Information / No Information
+10052,GRB 091020 / No Information,1.3 / No Redshift,MASTER II robotic telescope / No Information,Photometric / No Information
+10053,GRB 091020 / 091020,z = 1.71 / 1.71,Nordic Optical Telescope (NOT) / NOT,Spectroscopic / No Information
+10058,GRB 091020 / No Information,No Redshift / No Redshift,Lick Observatory / No Information,Photometric / No Information
+10059,GRB 091020 / No Information,No Redshift / No Redshift,Konus-Wind / No Information,No Information / No Information
+10060,GRB 091020 / No Information,No Redshift / No Redshift,Lick Observatory / No Information,Photometric / No Information
+10061,GRB 091018 / No Information,No Redshift / No Redshift,Skynet / No Information,No Information / No Information
+10062,GRB 091024 / No Information,No Redshift / No Redshift,Swift / No Information,No Information / No Information
+10063,GRB 091024 / No Information,No Redshift / No Redshift,Faulkes Telescope North / No Information,No Information / No Information
+10064,GRB091024 / No Information,No Redshift / No Redshift,"RAS Observatory Mayhill H06 (New Mexico, USA) / No Information",Spectroscopic / No Information
+10066,GRB 091024 / No Information,No Redshift / No Redshift,Faulkes Telescope North (Hawaii) / No Information,Spectroscopic / No Information
+10067,GRB 091024 / No Information,No Redshift / No Redshift,Xinglong TNT / No Information,Photometric / No Information
+10068,373691 / No Information,No Redshift / No Redshift,Swift / No Information,No Information / No Information
+10070,GRB 091024 / No Information,No Redshift / No Redshift,Fermi Gamma-Ray Burst Monitor (GBM) / No Information,No Information / No Information
+10071,373679-373684 / No Information,No Redshift / No Redshift,Swift / No Information,No Information / No Information
+10072,GRB 091024 / No Information,No Redshift / No Redshift,Swift / No Information,Spectroscopic / No Information
+10073,GRB091024 / No Information,No Redshift / No Redshift,Sonoita Research Observatory (SRO) / No Information,Photometric / No Information
+10074,GRB 091024 / No Information,No Redshift / No Redshift,0.6m Super-LOTIS telescope / No Information,Spectroscopic / No Information
+10075,GRB 091024 / No Information,No Redshift / No Redshift,KAIT (Lick Observatory) / No Information,Spectroscopic / No Information
+10076,GRB 091020 / No Information,0.342 / No Redshift,TLS Tautenburg / No Information,Spectroscopic / No Information
+10077,GRB 091024 / No Information,No Redshift / No Redshift,"1.34m Schmidt telescope of the Thueringer Landessternwarte Tautenburg, Germany / No Information",No Information / No Information
+10078,GRB091024 / No Information,No Redshift / No Redshift,Swift / No Information,No Information / No Information
+10079,373776-373778 / No Information,No Redshift / No Redshift,Swift / No Information,No Information / No Information
+10080,GRB 091020 / No Information,No Redshift / No Redshift,Xinglong TNT / No Information,No Information / No Information
+10081,GRB 091026 / No Information,0.342 / No Redshift,Swift XRT / No Information,Spectroscopic / No Information
+10082,GRB 091026 / No Information,No Redshift / No Redshift,Swift-XRT / No Information,No Information / No Information
+10084,GRB 091026 / No Information,No Redshift / No Redshift,Swift-XRT / No Information,No Information / No Information
+10085,GRB 091026 / No Information,No Redshift / No Redshift,Swift / No Information,No Information / No Information
+10086,GRB 091024 / No Information,No Redshift / No Redshift,Swift / No Information,No Information / No Information
+10087,GRB 091026 / No Information,No Redshift / No Redshift,Swift / No Information,No Information / No Information
+10088,GRB 091020 / No Information,No Redshift / No Redshift,The Very Large Array (VLA) / No Information,Spectroscopic / No Information
+10089,GRB 091026 / No Information,No Redshift / No Redshift,Swift / No Information,Spectroscopic / No Information
+10090,GRB 091020 / No Information,No Redshift / No Redshift,"1.34m Schmidt telescope of the Thueringer Landessternwarte Tautenburg, Germany / No Information",No Information / No Information
+10091,GRB 091026 / No Information,No Redshift / No Redshift,ESO/MPI telescope at La Silla Observatory (Chile) / No Information,No Information / No Information
+10092,GRB 091024 / No Information,No Redshift / No Redshift,Yunnan Observatory (GMG) / No Information,Photometric / No Information
+10093,GRB091024 / 091024,z = 1.091 / 1.091,10-m Keck I telescope / Keck I,Spectroscopic / Spectroscopic
+10094,GRB 091026 / No Information,No Redshift / No Redshift,Suzaku / No Information,No Information / No Information
+10095,GRB 091020 / No Information,No Redshift / No Redshift,Fermi / No Information,Spectroscopic / No Information
+10096,20117 / No Information,No Redshift / No Redshift,Swift / No Information,No Information / No Information
+10097,GRB 091029 / No Information,0.342 / No Redshift,Swift / No Information,Spectroscopic / No Information
+10098,GRB 091029 / No Information,No Redshift / No Redshift,ESO/MPI telescope at La Silla Observatory (Chile) / No Information,Spectroscopic / No Information
+10099,GRB 091029 / No Information,-0.5 / No Redshift,"CTIO's 16"" PROMPT telescopes / No Information",Photometric / No Information
+10100,GRB 091029 / 091029,2.752 / 2.752,Gemini-South / Gemini-South,Spectroscopic / Spectroscopic
+10101,GRB091024 / No Information,No Redshift / No Redshift,"Zeiss-1000 telescope of SAO RAS, Russia / No Information",Spectroscopic / No Information
+10102,GRB 091029 / No Information,No Redshift / No Redshift,Swift-XRT / No Information,No Information / No Information
+10103,GRB 091029 / No Information,No Redshift / No Redshift,Swift / No Information,Spectroscopic / No Information
+10104,GRB 091029 / No Information,No Redshift / No Redshift,BOOTES-3 / No Information,Spectroscopic / No Information
+10105,091028818 / No Information,No Redshift / No Redshift,Fermi Gamma-ray Burst Monitor (GBM) / No Information,Solar Flare / No Information
+10106,GRB 091029 / No Information,No Redshift / No Redshift,Swift-XRT / No Information,Spectroscopic / No Information
+10158,GRB 091109A / 091109A,3.5 +/- 0.4 / 3.5,ESO/MPI / ESO/MPI,Photometric / Photometric
+10202,GRB 091127 / 091127,0.490 / 0.490,Gemini North / Gemini-North,Spectroscopic / Spectroscopic
+10233,GRB 091127 / 091127,0.49034 +/- 0.00018 / 0.49034,VLT / VLT,Spectroscopic / Spectroscopic
+10246,GRB 091109A / 091109A,3.5 +/- 0.4 / 3.5,2.2m ESO/MPI telescope at La Silla Observatory (Chile) / ESO/MPI,Spectroscopic / Photometric
+10263,GRB 091208B / 091208B,1.063 / 1.063,Gemini-North / Gemini North,Spectroscopic / Spectroscopic
+10272,GRB 091208B / 091208B,z=1.0633+/-0.0003 / 1.0633,10m Keck I  telescope / Keck I,Spectroscopic / Spectroscopic
+10350,GRB091109A / 091109A,z=3.076 +/- 0.002 / 3.076,VLT/FORS2 / VLT,Spectroscopic / Spectroscopic
+10439,GRB 100219A / 100219A,z around 4.5 / 4.5,MPI/ESO telescope at LaSilla Observatory (Chile) / MPI/ESO,Photometric / Photometric
+10441,GRB 100219A / 100219A,4.8 / 4.6667,VLT / VLT,Spectroscopic / Spectroscopic
+10443,GRB100219A / 100219A,z ~ 4.7 / 4.7,Gemini South / Gemini South,Spectroscopic / Spectroscopic
+10445,GRB 100219A / 100219A,4.6667 +/- 0.0005 / 4.6667,X-shooter / VLT,Spectroscopic / Spectroscopic
+10466,GRB 100302A / 100302A,4.813 / 4.813,Gemini-North GMOS / Gemini-North,Spectroscopic / Spectroscopic
+10495,GRB 100316B / 100316B,z=1.180 / 1.180,VLT / VLT,Spectroscopic / Spectroscopic
+10517,GRB100316D / 100316D,0.1 / 0.014,Swift-XRT / XRT,Spectroscopic / No Information
+10588,GRB 100413A / 100413A,z=3.9+1.7-0.7 / 3.9,Swift XRT / Swift-XRT,Spectroscopic / No Information
+10620,GRB100418A / 100418A,0.6235 / 0.6235,VLT/X-Shooter / VLT,Spectroscopic / Spectroscopic
+10624,GRB 100418A / 100418A,0.624 / 0.624,Gemini North 8-m telescope / Gemini North,Spectroscopic / Spectroscopic
+10684,GRB 100425A / 100425A,1.755 / 1.755,ESO VLT equipped with the X-shooter spectrograph / VLT,Spectroscopic / Spectroscopic
+10752,GRB 100513A / 100513A,4.772 / 4.772,Gemini North / Gemini North,Spectroscopic / Spectroscopic
+10876,GRB 100621A / 100621A,0.542 / 0.542,ESO VLT equipped with the X-shooter spectrograph / VLT,Spectroscopic / Spectroscopic
+10940,GRB100704A / 100704A,z=3.6^+1.1 _-1.2 / 3.6,Swift XRT / Swift-XRT,Spectroscopic / No Information
+10971,GRB 100724A / 100724A,1.288 / 1.288,VLT / VLT,Spectroscopic / Spectroscopic
+11026,GRB 100728B / 100728B,z~2.8 / ~2.8,Swift/UVOT / UVOT,Photometric / Photometric
+11089,GRB100814A / 100814A,z=1.44 / 1.44,Magellan Clay Telescope / Magellan,Spectroscopic / Spectroscopic
+11116,GRB 100816A / 100816A,z~0.245 / 0.8035,Gemini-N/GMOS / Gemini-North,Spectroscopic / Spectroscopic
+11125,GRB 100816A / 100816A,0.8049 / 0.8049,Gran Telescopio Canarias (GTC) / GTC,Spectroscopic / Spectroscopic
+11164,GRB 100901A / 100901A,1.408 / 1.408,Gemini-North 8-m telescope / Gemini-North,Spectroscopic / Spectroscopic
+11195,GRB100902A / 100902A,z=4.5^+0.3_-0.2 / 4.5,Swift / Swift-XRT,Spectroscopic / No Information
+11230,GRB 100906A / 100906A,z=1.727 / 1.727,Gemini-North Telescope on Mauna Kea / Gemini-North,Spectroscopic / Spectroscopic
+11317,GRB 100728B / 100728B,z=2.106 / 2.106,ESO VLT / VLT,Spectroscopic / Spectroscopic
+11518,GRB 101219A / 101219A,0.718 / 0.718,Gemini-North / Gemini-North,Spectroscopic / Spectroscopic
+11522,GRB 101225A / 101225A,z=0.40 / 0.40,10m Keck-I telescope / Keck I,Spectroscopic / Spectroscopic
+11579,GRB 101219B / 101219B,0.5519 / 0.5519,ESO-VLT UT2 / ESO-VLT,Spectroscopic / No Information
+11607,GRB 110128A / 110128A,z=2.339 / 2.339,ESO VLT / VLT,Spectroscopic / Spectroscopic
+11635,GRB 110205A / 110205A,z~1.98 / 1.98,3m Lick Telescope / Lick,Spectroscopic / Spectroscopic
+11638,GRB 110205A / 110205A,z=2.22 / 2.22,FLWO 1.5 m telescope / FLWO,Spectroscopic / Spectroscopic
+11640,GRB 110205A / 110205A,2.22 / 2.22,NOT / NOT,Spectroscopic / Spectroscopic
+11708,GRB 110213A / 110213A,z = 1.46 / 1.46,2.3-m Bok telescope / Bok,Spectroscopic / Spectroscopic
+11977,GRB 110422A / 110422A,1.77 / 1.77,Italian TNG / TNG,Spectroscopic / Spectroscopic
+11978,GRB 110422A / 110422A,1.770+/-0.001 / 1.770,GTC (10.4m) / GTC,Spectroscopic / Spectroscopic
+11993,GRB 110503A / 110503A,z=1.613 / 1.613,GTC (10.4m) / GTC,Spectroscopic / Spectroscopic
+11997,GRB 110503A / 110503A,z=1.61 / 1.61,Italian TNG located in La Palma / TNG,Spectroscopic / Spectroscopic
+12164,GRB 110715A / 110715A,0.82 / 0.82,ESO VLT equipped with the X-shooter spectrograph / VLT,Spectroscopic / Spectroscopic
+12202,GRB 110726A / 110726A,1.036 / 1.036 < z < 2.7,Gemini-North / Gemini-North,Spectroscopic / No Information
+12225,GRB 110731A / 110731A,2.83 / 2.83,Gemini-North (Mauna Kea) / Gemini-North,Spectroscopic / Spectroscopic
+12234,GRB 110801A / 110801A,z=1.858 / 1.858,GTC (10.4m) / GTC,Spectroscopic / Spectroscopic
+12258,GRB 110808A / 110808A,z = 1.348 / 1.348,ESO VLT / VLT,Spectroscopic / Spectroscopic
+12284,GRB 110818A / 110818A,3.36 / 3.36,ESO VLT / VLT,Spectroscopic / Spectroscopic
+12429,GRB 111008A / 111008A,z~5 / 5.0,GMOS on Gemini-South / Gemini-South,Spectroscopic / Spectroscopic
+12431,GRB 111008A / 111008A,4.9898 / 4.9898,ESO-VLT / VLT,Spectroscopic / Spectroscopic
+12537,GRB 111107A / 111107A,2.893 / 2.893,GMOS-South on the Gemini-South 8-m telescope / Gemini-South,Spectroscopic / Spectroscopic
+12542,GRB 111107A / 111107A,1.998 / consistent with that reported by chornock et al. (gcn 12537),ESO-VLT / VLT,Spectroscopic / Spectroscopic
+12648,GRB 111209A / 111209A,0.677 / 0.677,VLT-I / VLT,Spectroscopic / Spectroscopic
+12759,GRB111228A / 111228A,0.714 / 0.714,MMT 6.5-m telescope / MMT,Spectroscopic / Spectroscopic
+12761,GRB 111228A / 111228A,0.716 / 0.716,Gemini-South 8-m telescope / Gemini-South,Spectroscopic / Spectroscopic
+12764,GRB 111228A / 111228A,0.713 / 0.713,Nordic Optical Telescope (NOT) / NOT,Spectroscopic / Spectroscopic
+12770,GRB 111228A / 111228A,0.71627 +/- 0.00002 / 0.71627,ESO VLT / VLT,Spectroscopic / Spectroscopic
+12777,GRB 111229A / 111229A,1.3805 / 1.3805,GMOS-South on the Gemini-South 8-m telescope / Gemini-South,Spectroscopic / Spectroscopic
+12865,GRB 120119A / 120119A,1.728 / 1.728,Gemini-South 8-m telescope / Gemini-South,Spectroscopic / Spectroscopic
+12866,GRB 120119 / 120119A,z=1.73 / 1.73,Kast dual spectrometer / Lick,Spectroscopic / Spectroscopic
+12867,GRB 120119A / 120119A,z=1.728 / 1.728,MMT 6.5-m telescope / MMT,Spectroscopic / Spectroscopic
+13118,GRB 120326A / 120326A,1.798 / 1.798,GTC (Gran Telescopio Canarias) / GTC,Spectroscopic / Spectroscopic
+13133,GRB 120327A / 120327A,2.81 / 2.81,Gemini-South 8-m Telescope / Gemini-South,Spectroscopic / Spectroscopic
+13134,GRB 120327A / 120327A,2.813 / 2.813,VLT/UT2 / VLT/UT2,Spectroscopic / Spectroscopic
+13146,GRB 120327A / 120327A,2.813 / 2.813,GTC (Gran Telescopio Canarias) / GTC,Spectroscopic / Spectroscopic
+13213,GRB 120404A / 120404A,1.633 / 2.876,Gemini-North 8-m telescope / Gemini-North,Spectroscopic / Spectroscopic
+13217,GRB 120404A / 120404A,2.876 / 2.876,GMOS / Gemini-North,Spectroscopic / Spectroscopic
+13227,GRB 120404A / 120404A,~2.88 / ~2.88,VLT/UT2 / VLT/UT2,Spectroscopic / Spectroscopic
+13251,GRB 120422A / 120422A,0.28 / 0.28,Gemini/GMOS / Gemini-North,Spectroscopic / Spectroscopic
+13257,GRB 120422A / 120422A,0.283 / 0.283,ESO VLT / VLT,Spectroscopic / Spectroscopic
+13457,GRB 120712A / 120712A,4.0 +/- 0.2 / 4.0,MPG/ESO 2.2m Telescope at La Silla Observatory (Chile) / MPG/ESO,Photometric / Photometric
+13458,GRB 120712A / 120712A,z=4.15 / 4.15,Gemini-South / Gemini-South,Spectroscopic / Spectroscopic
+13460,GRB 120712A / 120712A,4.1745 / 4.1745,ESO VLT / VLT,Spectroscopic / Spectroscopic
+13477,GRB 120714B / 120714B,0.3984 / 0.3984,"VLT (Paranal, Chile) / VLT",Spectroscopic / Spectroscopic
+13507,GRB120722A / 120722A,0.9586 / 0.9586,ESO VLT / VLT,Spectroscopic / Spectroscopic
+13512,GRB 120724A / 120724A,1.48 / 1.48,Gemini-North telescope / Gemini-North,Spectroscopic / Spectroscopic
+13532,GRB 120729A / 120729A,0.80 / 0.80,Gemini-North / Gemini-North,Spectroscopic / Spectroscopic
+13562,GRB 120802A / 120802A,z=3.796 / 3.796,GMOS-N spectrograph on Gemini-North / Gemini-North,Spectroscopic / Spectroscopic
+13628,GRB 120811C / 120811C,z=2.671 / 2.671,GTC / GTC,Spectroscopic / Spectroscopic
+13649,GRB 120815A / 120815A,2.358 / 2.358,VLT/X-shooter spectrograph / VLT/X-shooter,Spectroscopic / Spectroscopic
+13723,GRB 120907A / 120907A,0.970 / 0.970,OSIRIS/GTC / OSIRIS/GTC,Spectroscopic / Spectroscopic
+13730,GRB 120909A / 120909A,3.93 / 3.93,ESO VLT equipped with the X-shooter spectrograph / VLT,Spectroscopic / Spectroscopic
+13810,GRB 120922A / 120922A,3.1 +/- 0.2 / 3.1,GROND / MPG/ESO,Photometric / Photometric
+13890,GRB 121024A / 121024A,2.298 / 2.298,VLT / VLT,Spectroscopic / Spectroscopic
+13929,GRB 121027A / 121027A,z=1.77 / 1.77,Gemini-South / Gemini-South,Spectroscopic / Spectroscopic
+13930,GRB 121027A / 121027A,z=1.773 / 1.773,VLT/X-shooter spectrograph / VLT,Spectroscopic / Spectroscopic
+14009,GRB 121128A / 121128A,z=2.20 / 2.20,Gemini-North / Gemini North,Spectroscopic / Spectroscopic
+14035,GRB121201A / 121201A,z=3.385 / 3.385,"VLT (Paranal Observatory, Chile) / VLT",Spectroscopic / Spectroscopic
+14059,GRB 121211A / 121211A,z=1.023 / 1.023,Keck I telescope (+LRIS) / Keck I,Spectroscopic / No Information
+14120,GRB 121229A / 121229A,2.707 / 2.707,ESO VLT / VLT,Spectroscopic / Spectroscopic
+14207,GRB 130215A / 130215A,0.597 / 0.597,Lick Observatory / Lick Shane,Spectroscopic / Spectroscopic
+14225,GRB 120118B / 120118B,2.943 / 2.943,ESO VLT / VLT,Spectroscopic / Spectroscopic
+14264,GRB 100615A / 100615A,1.398 / 1.398,ESO VLT / VLT,Spectroscopic / Spectroscopic
+14273,GRB 111123A / 111123A,3.1516 / 3.1516,ESO VLT / VLT,Spectroscopic / Spectroscopic
+14291,GRB 100424A / 100424A,2.465 / 2.465,ESO VLT / VLT,Spectroscopic / Spectroscopic
+14303,GRB 130215A / 130215A,z=0.58+/-0.02 / 0.58,GTC (Gran Telescopio Canarias) / GTC,Spectroscopic / No Information
+14365,GRB 130408A / 130408A,3.758 / 3.758,ESO VLT / VLT,Spectroscopic / Spectroscopic
+14366,GRB 130408A / 130408A,z=3.757 / 3.757,Gemini-S / Gemini-South,Spectroscopic / No Information
+14380,GRB 130418A / 130418A,1.218 / 1.218,10.4m GTC telescope / GTC,Spectroscopic / No Information
+14390,GRB130418A / 130418A,z = 1.217 / 1.217,VLT/X-shooter / VLT,Spectroscopic / Spectroscopic
+14437,GRB 130420A / 130420A,1.297 / 1.297,GTC (10.4m) / GTC,Spectroscopic / Spectroscopic
+14455,GRB 130427A / 130427A,z=0.34 / 0.34,Gemini-North / GMOS / Gemini-North,Spectroscopic / Spectroscopic
+14478,GRB 130427A / 130427A,z=0.338+/-0.002 / 0.338,NOT (Nordic Optical Telescope) / NOT,Spectroscopic / Spectroscopic
+14491,GRB 130427A / 130427A,0.3399 +/- 0.0002 / 0.3399,VLT (Very Large Telescope) / VLT,Spectroscopic / Spectroscopic
+14493,GRB 130427B / 130427B,2.78 +/-  0.02 / 2.78,ESO VLT / VLT,Spectroscopic / No Information
+14500,GRB 100728A / 100728A,z = 1.567 / 1.567,ESO VLT UT2 / VLT,Spectroscopic / Spectroscopic
+14567,GRB 130505A / 130505A,z=2.27 / 2.27,GMOS-N on Gemini-N / Gemini-North,Spectroscopic / Spectroscopic
+14605,GRB 130427A / 130427A,0.340 / 0.340,Large Binocular Telescope (LBT) / LBT,Spectroscopic / Spectroscopic
+14617,GRB 130427A / 130427A,0.3399 / 0.3399,4.2m William Herschel telescope / William Herschel,Spectroscopic / Spectroscopic
+14621,GRB 130511A / 130511A,z=1.3033 / 1.3033,Gemini-North / Gemini-North,Spectroscopic / Spectroscopic
+14634,GRB 130514A / 130514A,3.6 +/- 0.2 / 3.6,MPG/ESO 2.2m Telescope at La Silla Observatory (Chile) / MPG/ESO,Photometric / Photometric
+14669,GRB130427A / 130427A,0.3393 / 0.3393,BTA / BTA,Spectroscopic / No Information
+14685,GRB 130518A / 130518A,z=2.49 / 2.49,10.4m GTC / GTC,Spectroscopic / Spectroscopic
+14687,GRB 130518A / 130518A,z=2.488 / 2.488,Gemini-North / GMOS / Gemini-North,Spectroscopic / Spectroscopic
+14744,GRB 130603B / 130603B,z=0.356 / 0.356,GTC (Gran Telescopio Canarias) / GTC,Spectroscopic / Spectroscopic
+14747,GRB 130603B / 130603B,0.356 / 0.356,GTC (+OSIRIS) / GTC,Spectroscopic / Spectroscopic
+14748,GRB 130603B / 130603B,z=0.356 / 0.356,Gemini-South / Gemini-South,Spectroscopic / Spectroscopic
+14757,GRB 130603B / 130603B,0.3564+/-0.0002 / 0.3564,ESO VLT / VLT,Spectroscopic / Spectroscopic
+14762,GRB 130604A / 130604A,1.06 / 1.06,Gemini North / Gemini-North,Spectroscopic / Spectroscopic
+14790,GRB 130606A / 130606A,6.1 / 5.91,GTC (Gran Telescopio Canarias) / GTC,Spectroscopic / Spectroscopic
+14796,GRB 130606A / 130606A,5.91 / 5.91,GTC / GTC,Spectroscopic / Spectroscopic
+14798,GRB 130606A / 130606A,5.913 / 5.913,MMT / MMT,Spectroscopic / Spectroscopic
+14816,GRB 130606A / 130606A,5.913 / 5.913,ESO VLT / VLT,Spectroscopic / Spectroscopic
+14848,GRB 130610A / 130610A,2.092 / 2.092,ESO-VLT / VLT,Spectroscopic / Spectroscopic
+14882,GRB 130612A / 130612A,z=2.006 / 2.006,VLT/X-shooter / VLT,Spectroscopic / Spectroscopic
+14956,GRB 130701A / 130701A,z=1.155 / 1.155,VLT/X-shooter / VLT,Spectroscopic / Spectroscopic
+15144,GRB 130831A / 130831A,0.4791 / 0.4791,Gemini-North / Gemini-North,Spectroscopic / Spectroscopic
+15187,GRB 130907A / 130907A,z=1.238 / 1.238,NOT / NOT,Spectroscopic / Spectroscopic
+15249,GRB 130925A / 130925A,z=0.347 / 0.347,ESO-VLT / VLT/UVES,Spectroscopic / Spectroscopic
+15250,GRB 130925A / 130925A,0.35 / 0.35,ESO/VLT UT2 / VLT/X-shooter,Spectroscopic / Spectroscopic
+15307,GRB131004A / 131004A,0.717 / 0.717,LDSS-3 on the 6.5-m Magellan Clay Telescope / Magellan,Spectroscopic / Spectroscopic
+15310,GRB131004A / 131004A,0.71 / 0.71,4-m TNG Telescope at Canary islands / TNG,Spectroscopic / Spectroscopic
+15407,GRB 131030A / 131030A,z = 1.293 / 1.293,NOT equipped with the AlFOSC instrument / NOT,Spectroscopic / Spectroscopic
+15408,GRB131030A / 131030A,z=1.295 / 1.295,10.4m GTC telescope / GTC,Spectroscopic / Spectroscopic
+15450,GRB 131105A / 131105A,1.686 / 1.686,ESO VLT / VLT,Spectroscopic / Spectroscopic
+15451,GRB 131103A / 131103A,0.5955 / 0.599,ESO VLT / VLT,Spectroscopic / Spectroscopic
+15493,GRB 131117A / 131117A,4.18 +/-0.16 / 4.18,2.2m MPG telescope at ESO La Silla Observatory (Chile) / MPG,Photometric / Photometric
+15571,GRB 090530 / 090530,~1.266 / ~1.266,ESO VLT / VLT,Spectroscopic / No Information
+15624,GRB 131227A / 131227A,z~5.3 / ~5.3,Gemini-North / Gemini-North,Spectroscopic / No Information
+15800,GRB 140206A / 140206A,2.73 / 2.73,Nordic Optical Telescope (NOT) / NOT,Spectroscopic / Spectroscopic
+15802,GRB 140206A / 140206A,2.74 / 2.74,Telescopio Nazionale Galileo (TNG) / TNG,Spectroscopic / Spectroscopic
+15831,GRB 140213A / 140213A,z = 1.2076 / 1.2076,ESO VLT / VLT,Spectroscopic / Spectroscopic
+15900,GRB 140301A / 140301A,1.416 / 1.416,VLT equipped with the X-shooter spectrograph / VLT,Spectroscopic / Spectroscopic
+15922,GRB 140304A / 140304A,5.39 / 5.283,10.4m GTC (+OSIRIS) / GTC,Spectroscopic / Spectroscopic
+15924,GRB 140304A / 140304A,5.28+/-0.02 / 5.28,Nordic Optical Telescope (NOT) / NOT,Spectroscopic / Spectroscopic
+15936,GRB 140304A / 140304A,5.283 / 5.283,10.4m GTC (+OSIRIS) / GTC,Spectroscopic / Spectroscopic
+15961,GRB 140311A / 140311A,4.95 / 4.95,Gemini-South / Gemini-South,Spectroscopic / Spectroscopic
+15964,GRB 140311A / 140311A,z ~ 5 / ~ 5,Nordic Optical Telescope (NOT) / NOT,Spectroscopic / Spectroscopic
+15966,GRB 140311A / 140311A,4.954 / 4.954,Gemini-North / Gemini-North,Spectroscopic / No Information
+16079,GRB 111225A / 111225A,0.297 / 0.297,GTC (10.4m) / GTC,Spectroscopic / Spectroscopic
+16125,GRB 140419A / 140419A,3.956 / 3.956,Gemini-N / Gemini-North,Spectroscopic / Spectroscopic
+16150,GRB 140423A / 140423A,z=3.26 / 3.26,Gemini-N / Gemini-North,Spectroscopic / Spectroscopic
+16181,GRB 140428A / 140428A,z=4.7 / ~4.7,Keck I 10m telescope / Keck I,Spectroscopic / No Information
+16194,GRB 140430A / 140430A,1.60 / 1.60,ESO VLT / VLT,Spectroscopic / Spectroscopic
+16217,GRB 140506A / 140506A,0.889 / 0.889,Paranal Observatory / VLT/X-shooter spectrograph / VLT,Spectroscopic / Spectroscopic
+16269,GRB 140515A / 140515A,z=6.32 / 6.32,GMOS on Gemini-N 8-m telescope / Gemini-North,Spectroscopic / Spectroscopic
+16301,GRB140518A / 140518A,z=4.707 / 4.707,GMOS on the 8-m Gemini-North telescope / Gemini-North,Spectroscopic / Spectroscopic
+16310,GRB 140512A / 140512A,0.725 / 0.725,NOT (+ALFOSC) / NOT,Spectroscopic / Spectroscopic
+16401,GRB 140614A / 140614A,z=4.233 / 4.233,VLT/X-shooter / VLT,Spectroscopic / Spectroscopic
+16437,GRB140622A / 140622A,0.959 / ~0.959,VLT X-shooter spectrograph / VLT,Spectroscopic / Spectroscopic
+16489,GRB 140629A / 140629A,2.275 +/- 0.003 / 2.275,6-m BTA (+Scorpio-I) / BTA,Spectroscopic / Spectroscopic
+16505,GRB140703A / 140703A,z=3.14 / 3.14,GTC / GTC,Spectroscopic / Spectroscopic
+16570,GRB 140710A / 140710A,0.558 / 0.558,Gemini-North / Gemini-North,Spectroscopic / Spectroscopic
+16774,GRB 140903A / 140903A,z=0.351 / 0.351,Gemini-North telescope / Gemini-North,Spectroscopic / Spectroscopic
+16797,GRB 140907A / 140907A,1.21 / 1.21,GTC (10.4m) / GTC,Spectroscopic / No Information
+16891,GRB141004A / 141004A,No Redshift / 0.57,2.5-m Nordic Optical Telescope (NOT) / NOT,Spectroscopic / Spectroscopic
+16902,GRB141004A / 141004A,0.573 / 0.573,GTC (10.4m) / GTC,Spectroscopic / Spectroscopic
+16968,GRB 141026A / 141026A,3.35 / 3.35,OSIRIS at the 10.4m Gran Telescopio Canarias / GTC,Spectroscopic / Spectroscopic
+17040,GRB 141109AD / 141109A,2.993 / 2.993,ESO-VLT / VLT,Spectroscopic / Spectroscopic
+17081,GRB 141121A / 141121A,z=1.47 / 1.47,Keck I 10-meter telescope / Keck I,Spectroscopic / Spectroscopic
+17177,GRB 141212A / 141212A,z=0.596 / 0.596,Gemini-North / Gemini-North,Spectroscopic / Spectroscopic
+17198,GRB141220A / 141220A,1.3195 / 1.3195,GTC (Gran Telescopio Canarias) / GTC,Spectroscopic / Spectroscopic
+17228,GRB 141221A / 141221A,z=1.452 / 1.452,Keck II / Keck II,Spectroscopic / Spectroscopic
+17234,GRB 141225A / 141225A,z=0.915 / 0.915,OSIRIS at the 10.4m GTC / GTC,Spectroscopic / Spectroscopic
+17278,GRB 150101B / 150101B,0.093 / 0.093,GTC (+OSIRIS) / GTC,Spectroscopic / Spectroscopic
+17358,GRB 150120A / 150120A,0.460 / 0.460,Gemini-North 8-m telescope / Gemini-North,Spectroscopic / Spectroscopic
+17420,GRB 150206A / 150206A,z=2.087 / 2.087,VLT/X-shooter / VLT,Spectroscopic / Spectroscopic
+17523,GRB 150301B / 150301B,z = 1.5169 / 1.5169,"Very Large Telescope (Paranal Observatory, Chile) / VLT",Spectroscopic / Spectroscopic
+17583,GRB 150314A / 150314A,1.758 / 1.758,GTC (10.4 m) / GTC,Spectroscopic / Spectroscopic
+17616,GRB 150323A / 150323A,0.593 / 0.593,Keck I 10m telescope / Keck I,Spectroscopic / Spectroscopic
+17672,GRB 150403A / 150403A,z = 2.06 / 2.06,Very Large Telescope (VLT) / VLT,Spectroscopic / Spectroscopic
+17697,GRB 150413A / 150413A,3.2 / 3.2,CAHA / CAHA,Spectroscopic / Spectroscopic
+17710,GRB 150413A / 150413A,3.139+/-0.003 / 3.139,Asiago 1.82 m Copernico Telescope +AFOSC / Asiago,Spectroscopic / Spectroscopic
+17755,Swift short-GRB 150423A / 150423A,z = 1.394 / 1.394,VLT equipped with the X-shooter spectrograph / VLT,Spectroscopic / Spectroscopic
+17758,GRB 150424A / 150424A,z = 0.30 / <3,10.4m GTC telescope (+OSIRIS) / GTC,Spectroscopic / No Information
+17988,GRB 130427A / 140318A,No Redshift / 1.02,Fermi / WHT,Spectroscopic / Spectroscopic
+18080,GRB 150727A / 150727A,z=0.313 / 0.313,VLT/X-shooter / VLT,Spectroscopic / Spectroscopic
+18177,GRB 150818A / 150818A,0.282 / 0.282,10.4m GTC telescope (+OSIRIS) / GTC,Spectroscopic / Spectroscopic
+18187,GRB 150821A / 150821A,0.755 / 0.755,ESO VLT / VLT,Spectroscopic / Spectroscopic
+18273,GRB 150910A / 150910A,z=1.359 / 1.359,3m Shane telescope at Lick Observatory / Lick,Spectroscopic / Spectroscopic
+18274,GRB 150910A / 150910A,1.360 / 1.360,GTC / GTC,Spectroscopic / Spectroscopic
+18318,GRB 150915A / 150915A,1.968 / 1.968,ESO VLT / VLT,Spectroscopic / Spectroscopic
+18426,GRB 151021A / 151021A,z = 2.330 / 2.330,"VLT (Paranal Observatory, Chile) / VLT",Spectroscopic / Spectroscopic
+18483,GRB 151027A / 151027A,z=0.38+/-0.17 / 0.38,Swift / XRT,Spectroscopic / No Information
+18487,GRB 151027A / 151027A,0.81 / 0.81,Keck/HIRES / Keck,Spectroscopic / Spectroscopic
+18493,GRB 151027A / 151027A,0.81 / 0.81,Gao-Mei-Gu of Yunnan Observatories / GMG,Spectroscopic / Spectroscopic
+18505,GRB 151027B / 151027B,z=4.063 / 4.063,VLT X-shooter spectrograph / VLT,Spectroscopic / Spectroscopic
+18524,GRB 151029A / 151029A,z=1.423 / 1.423,ESO Very Large Telescope UT2 / VLT,Spectroscopic / Spectroscopic
+18540,GRB 151031A / 151031A,z = 1.167 / 1.167,ESO Very Large Telescope UT2 (Kueyen) / VLT,Spectroscopic / Spectroscopic
+18598,GRB 151111A / 151111A,3.5 +/- 0.3 / 3.5,2.2m MPG telescope at ESO La Silla Observatory (Chile) / MPG,Photometric / Photometric
+18603,GRB 151112A / 151112A,4.1 +/- 0.3 / 4.1,GROND / MPG,Photometric / Photometric
+18696,GRB 151215A / 151215A,2.59 / 2.59,Nordic Optical Telescope (NOT) / NOT,Spectroscopic / Spectroscopic
+18886,GRB 160117B / 160117B,0.870 / 0.870,ESO's Very Large Telescope UT2 / VLT,Spectroscopic / Spectroscopic
+18915,GRB 160117B / 160117B,0.86 +/- 0.01 / 0.86,TNG / TNG,Spectroscopic / Spectroscopic
+18925,GRB 160121A / 160121A,1.960 / 1.960,10.4m GTC telescope (+OSIRIS) / GTC,Spectroscopic / Spectroscopic
+18965,GRB 160131A / 160131A,0.97 / 0.97,3.6m TNG telescope / TNG,Spectroscopic / Spectroscopic
+18966,GRB 160131A / 160131A,0.972 / 0.972,GTC / GTC,Spectroscopic / Spectroscopic
+18969,GRB 160131A / 160131A,0.97 / 0.97,Xinglong 2.16m telescope / Xinglong,Spectroscopic / Spectroscopic
+18982,GRB160203A / 160203A,3.52 / 3.52,ESO's Very Large Telescope UT2 / VLT,Spectroscopic / Spectroscopic
+19109,GRB 160227A / 160227A,2.38 / 2.38,Nordic Optical Telescope (NOT) / NOT,Spectroscopic / Spectroscopic
+19192,GRB 160314A / 160314A,0.726 / 0.726,ESO's Very Large Telescope UT2 / VLT,Spectroscopic / Spectroscopic
+19245,GRB 160327A / 160327A,4.99 / 4.99,GTC (Gran Telescopio Canarias) / GTC,Spectroscopic / Spectroscopic
+19274,GRB 160410A / 160410A,z = 1.717 / 1.717,ESO Very Large Telescope UT2 (Kueyen) / VLT,Spectroscopic / Spectroscopic
+19278,GRB 160410A / 160410A,1.72 / 1.72,Keck-I / Keck-I,Spectroscopic / Spectroscopic
+19350,GRB 160425A / 160425A,0.555 / 0.555,ESO Very Large Telescope UT 2 (Kueyen) / VLT,Spectroscopic / Spectroscopic
+19565,GRB160624A / 160624A,z=0.483 / 0.483,Gemini North telescope / Gemini-North,Spectroscopic / Spectroscopic
+19656,GRB 160703A / 160703A,No Redshift / z < ~1.5,Swift / UVOT,Photometric / No Information
+19773,GRB 160804A / 160804A,0.736 / 0.736,ESO VLT UT2 (Kueyen) / VLT,Spectroscopic / Spectroscopic
+20043,GRB 161014A / 161014A,2.823 / 2.823,10.4m GTC telescope / GTC,Spectroscopic / Spectroscopic
+20061,GRB 161014A / 161014A,2.823 / 2.823,VLT/UT2 / VLT,Spectroscopic / Spectroscopic
+20069,GRB 161017A / 161017A,2.013 / 2.0127,GTC (10.4m) / GTC,Spectroscopic / Spectroscopic
+20077,GRB 161017A / 161017A,2.0127 / 2.0127,Gran Telescopio Canarias (GTC) / GTC,Spectroscopic / Spectroscopic
+20078,GRB 161017A / 161017A,2.01 / 2.01,Telescopio Nazionale Galileo (TNG) / TNG,Spectroscopic / Spectroscopic
+20150,GRB 161108A / 161108A,1.159 / 1.159,Nordic Optical Telescope (NOT) / NOT,Spectroscopic / Spectroscopic
+20180,GRB 161117A / 161117A,1.549 / 1.549,ESO VLT Kueyen / VLT,Spectroscopic / Spectroscopic
+20245,GRB 161129A / 161129A,0.645 / 0.645),GTC (10.4 m) / GTC,Spectroscopic / Spectroscopic
+20272,GRB161205A / 210619B,No Redshift / 1.937,POLAR / OSIRIS/GTC,No Information / Spectroscopic
+20321,GRB 161219B / 161219B,0.1475 / 0.1475,ESO Very Large Telescope UT 2 (Kueyen) / VLT,Spectroscopic / Spectroscopic
+20458,GRB 170113A / 170113A,z=1.968 / 1.968,ESO Very Large Telescope UT 2 (Kueyen) / VLT,Spectroscopic / Spectroscopic
+20584,GRB 170202A / 170202A,3.645 / 3.645,"10.4m GTC telescope at the Roque de los Muchachos observatory (La Palma, Spain) / GTC",Spectroscopic / Spectroscopic
+20588,GRB 170202A / 170202A,z = 3.65 / 3.65,"2.16-m telescope at Xinglong, Hebei, China / Xinglong",Spectroscopic / Spectroscopic
+20590,GRB 170202A / 170202A,3.645 / 3.645,ESO Very Large Telescope UT 2 (Kueyen) / VLT,Spectroscopic / Spectroscopic
+20990,GRB 170405A / 170405A,z = 3.510 / 3.510,GTC (10.4m) / GTC,Spectroscopic / Spectroscopic
+21119,GRB 170519A / 170519A,0.818 / 0.818,GTC (10.4m) / GTC,Spectroscopic / Spectroscopic
+21177,GRB 170531B / 170531B,2.366 / 2.366,GTC (10.4 m) / GTC,Spectroscopic / Spectroscopic
+21197,GRB 170604A / 170604A,z=1.329 / 1.329,GTC (10.4 m) / GTC,Spectroscopic / Spectroscopic
+21209,GRB 170531B / 170531B,0.142 / consistent with that obtained by de ugarte-postigo et al. (gcn 21177),William Herschel Telescope (WHT) / WHT,Spectroscopic / No Information
+21240,GRB 170607A / 170607A,0.557 / 0.557,GTC (10.4m) / GTC,Spectroscopic / Spectroscopic
+21298,GRB 170705A / 170705A,2.010 / 2.010,10.4m GTC telescope / GTC,Spectroscopic / Spectroscopic
+21359,GRB 170714A / 170714A,0.793 / 0.793,GTC (10.4m) / GTC,Spectroscopic / Spectroscopic
+21799,GRB 170903A / 170903A,0.886 / 0.886,GTC (10.4m) / GTC,Spectroscopic / Spectroscopic
+22039,GRB 171020A / 171020A,1.87 / 1.87,Nordic Optical Telescope (NOT) / NOT,Spectroscopic / Spectroscopic
+22180,GRB 171205A / 171205A,0.0368 / 0.0368,ESO VLT/X-shooter spectrograph / VLT,Spectroscopic / Spectroscopic
+22272,GRB 171222A / 171222A,2.409 / 2.409,10.4m GTC telescope / GTC,Spectroscopic / Spectroscopic
+22346,GRB 180115A / 180115A,2.487 / 2.487,10.4m GTC telescope / GTC,Spectroscopic / No Information
+22384,GRB 180205A / 180205A,z=1.409 / 1.409,ESO Very Large Telescope UT 2 (Kueyen) / VLT,Spectroscopic / Spectroscopic
+22484,GRB 180314A / 180314A,1.445 / 1.445,ESO/VLT UT2 / VLT,Spectroscopic / Spectroscopic
+22535,GRB 180325A / 180325A,2.25 / 2.25,NOT (Nordic Optical Telescope) / NOT,Spectroscopic / Spectroscopic
+22555,GRB 180325A / 180325A,z=2.248 / 2.248,ESO VLT/X-shooter spectrograph / VLT,Spectroscopic / Spectroscopic
+22567,GRB 180329B / 180329B,z=1.998 / 1.998,ESO VLT/X-shooter spectrograph / VLT,Spectroscopic / Spectroscopic
+22591,GRB 180404A / 180404A,z = 1.000 / 1.000,ESO Very Large Telescope (VLT) / VLT,Spectroscopic / Spectroscopic
+22702,GRB 180510B / 180510B,z=1.305 / 1.305,ESO VLT/X-shooter / VLT,Spectroscopic / Spectroscopic
+22823,GRB 180620B / 180620B,1.1175 / 1.1175,ESO Very Large Telescope (VLT) / VLT,Spectroscopic / Spectroscopic
+22845,GRB 180624A / 180624A,2.855 / 2.855,LBT-INAF / LBT,Spectroscopic / Spectroscopic
+22996,GRB 180720B / 180720B,0.654 / 0.654,ESO VLT UT2 / VLT,Spectroscopic / Spectroscopic
+23055,GRB 180728A / 180728A,0.117 / 0.117,ESO VLT UT2 / VLT,Spectroscopic / Spectroscopic
+23315,GRB 181010A / 181010A,1.39 / 1.39,ESO-VLT UT2 / VLT,Spectroscopic / Spectroscopic
+23356,GRB 181020A / 181020A,2.938 / 2.938,ESO VLT UT2 / VLT,Spectroscopic / Spectroscopic
+23421,GRB 181110A / 181110A,z=1.505 / 1.505,ESO-VLT UT2 / VLT,Spectroscopic / Spectroscopic
+23537,GRB 181213A / 181213A,No Redshift / <2.4,2.5-m Nordic Optical Telescope (NOT) / NOT,Spectroscopic / No Information
+23623,GRB 190106A / 190106A,z~0.896 / 1.86,Xinglong-2.16m telescope / Xinglong,Spectroscopic / Spectroscopic
+23629,GRB 190106A / 190106A,z=1.86 / 1.86,Xinglong-2.16m / Xinglong,Spectroscopic / Spectroscopic
+23630,GRB 190106A / 190106A,1.86 / 1.86,2.4-meter optical telescope at Gao-Mei-Gu (GMG) station of Yunnan Observatories. / GMG,Spectroscopic / Spectroscopic
+23632,GRB 190106A / 190106A,1.859 / 1.859,ESO-VLT UT2 (Kueyen) / VLT,Spectroscopic / Spectroscopic
+23680,GRB 190114A / 190114A,z=3.3765 / 3.3765,ESO Very Large Telescope UT 2 (Kueyen) / VLT,Spectroscopic / Spectroscopic
+23695,GRB 190114C / 190114C,0.42 / 0.42,Alfosc / NOT,Spectroscopic / Spectroscopic
+23708,GRB 190114C / 190114C,0.4245 +/- 0.0005 / 0.4245,10.4m GTC telescope (+OSIRIS) / GTC,Spectroscopic / No Information
+23710,GRB 190114C / 190114C,0.4250 / 0.4250,ESO-VLT UT2 (Kueyen) / ESO-VLT UT2,Spectroscopic / Spectroscopic
+23999,GRB 190324A / 190324A,1.1715 / 1.1715,ESO VLT UT2 (Kueyen) / VLT,Spectroscopic / Spectroscopic
+24916,GRB 190627A / 190627A,1.942 / 1.942,ESO VLT UT1 / VLT,Spectroscopic / Spectroscopic
+25252,GRB 190719C / 190719C,2.469 / 2.469,ESO VLT UT2 (Kueyen) / VLT,Spectroscopic / Spectroscopic
+25565,GRB 198029A / 190829A,0.0785 +/- 0.005 / 0.0785,10.4m GTC telescope equipped with OSIRIS in La Palma (Spain) / GTC,Spectroscopic / Spectroscopic
+25595,GRB190829A / 190829A,0.078 / 0.078,Keck I / Keck I,Spectroscopic / Spectroscopic
+25956,GRB 191004B / 191004B,z = 3.503 / 3.503,ESO VLT UT2 (Kueyen) / VLT,Spectroscopic / Spectroscopic
+25991,GRB 191011A / 191011A,z=1.722 / 1.722,VLT / VLT,Spectroscopic / No Information
+26401,S191213g / 191019A,195.0 Mpc / 0.248,INTEGRAL Multi-Messenger team / NOT,Photometric / Spectroscopic
+26538,GRB 191221B / 191221B,z=1.19 / 1.19,Swift/UVOT / UVOT,Spectroscopic / Spectroscopic
+26998,GRB 200205B / 200205B,1.465 / 1.465,ESO VLT UT2 (Kueyen) / VLT,Spectroscopic / Spectroscopic
+28338,GRB 200829A / 200829A,1.25 +\- 0.02 / 1.25,Swift Observatory / UVOT-XRT,Photometric / Photometric
+28649,GRB 201015A / 201015A,0.426 / 0.426,GTC / GTC,Spectroscopic / Spectroscopic
+28650,GRB 201014A / 201014A,4.56 / 4.56,GTC/OSIRISA / GTC,Spectroscopic / No Information
+28661,GRB 201015A / 201015A,0.423 / 0.423,Nordic Optical Telescope (NOT) / NOT,Spectroscopic / Spectroscopic
+28717,GRB 201020A / 201020A,2.903 / 2.903,GTC/OSIRIS / GTC,Spectroscopic / Spectroscopic
+28739,GRB 201021C / 201021C,1.070 / 1.070,ESO VLT UT3 (Melipal) / VLT,Spectroscopic / Spectroscopic
+28764,GRB 201024A / 201024A,0.999 / 0.999,GTC/OSIRISA / GTC,Spectroscopic / Spectroscopic
+28840,GRB 201104B / 201104B,1.954 / 1.954,ESO VLT UT3 (Melipal) / VLT,Spectroscopic / Spectroscopic
+29077,GRB 201216C / 201216C,1.10 / 1.10,Very Large Telescope (VLT) / VLT,Spectroscopic / No Information
+29100,GRB 201221A / 201221A,5.70 / 5.70,ESO VLT UT3 (Melipal) / VLT,Spectroscopic / No Information
+29132,GRB 201221D / 201221D,1.046 / 1.046,OSIRIS at Gran Telescopio Canarias (GTC) / GTC,Spectroscopic / Spectroscopic
+29450,GRB 210210A / 210210A,0.715 / 0.715,Gran Telescopio Canarias (GTC) / OSIRIS/GTC,Spectroscopic / Spectroscopic
+29552,GRB 210222B / 210222B,2.198 / 2.198,Very Large Telescope (VLT) / FORS2/VLT,Spectroscopic / Spectroscopic
+29685,GRB 210321A / 210321A,z = 1.487 / 1.487,GTC (10.4m) / OSIRIS/GTC,Spectroscopic / No Information
+29806,GRB 210411C / 210411C,2.826 / 2.826,ESO VLT UT3 (Melipal) / VLT,Spectroscopic / Spectroscopic
+29853,GRB 210420B / 210420B,z = 1.400 / 1.400,GTC (10.4m) / GTC,Spectroscopic / Spectroscopic
+29944,GRB 210504A / 210504A,2.077 / 2.077,ESO VLT UT3 (Melipal) / VLT,Spectroscopic / Spectroscopic
+30037,GRB 210517A / 210517A,2.486 / 2.486,ESO VLT UT3 (Melipal) / VLT,Spectroscopic / Spectroscopic
+30164,GRB 210610A / 210610A,3.54 / 3.54,Xinglong-2.16m / Xinglong,Spectroscopic / Spectroscopic
+30182,GRB 210610B / 210610B,z = 1.13 / 1.13,Nordic Optical Telescope (NOT) / NOT,Spectroscopic / No Information
+30194,GRB 210610B / 210610B,1.1345 / 1.1345,GTC (10.4m) / GTC,Spectroscopic / No Information
+30200,GRB 210610A / 210610A,z=3.5 / 3.5,Himalayan Chandra TelescopeA (HCTA) / HCT,Spectroscopic / Spectroscopic
+30201,GRB 210610B / 210610B,z=1.13 / 1.13,Himalayan Chandra Telescope (HCT) / HCT,Spectroscopic / Spectroscopic
+30355,GRB 210702A / 210702A,z=1.1757+/-0.0093 / 1.1757,Swift / Swift/UVOT,Spectroscopic / Spectroscopic
+30357,GRB 210702A / 210702A,1.160 / 1.160,ESO VLT UT3 (Melipal) / VLT,Spectroscopic / Spectroscopic
+30487,GRB 210722A / 210722A,z=1.145 / 1.145,GTC (10.4 m) / OSIRIS/GTC,Spectroscopic / Spectroscopic
+30583,GRB 210731A / 210731A,z=1.2525 / 1.2525,ESO VLT UT3 / VLT,Spectroscopic / Spectroscopic
+30692,GRB 210822A / 210822A,z = 1.736 / 1.736,Nordic Optical Telescope (NOT) / NOT,Spectroscopic / Spectroscopic
+30771,GRB 210905A / 210905A,6.318 / 6.318,ESO VLT UT3 (Melipal) / VLT,Spectroscopic / Spectroscopic
+31107,GRB 211023B / 211023B,0.862 / 0.862,LBT-INAF / LBT,Spectroscopic / No Information
+31188,GRB 211207A / 211207A,2.272 / 2.272,ESO VLT UT3 (Melipal) / VLT,Spectroscopic / Spectroscopic
+31353,GRB 220101A / 220101A,4.61 / 4.61,Xinglong-2.16m / Xinglong,Spectroscopic / Spectroscopic
+31359,GRB 220101A / 220101A,4.618 / 4.618,Nordic Optical Telescope (NOT) / NOT,Spectroscopic / Spectroscopic
+31363,GRB 220101A / 220101A,4.61 / 4.61,Copernico Telescope / Asiago,Spectroscopic / Spectroscopic
+31423,GRB 220107A / 220107A,1.246 / 1.246,6m BTA / BTA,Spectroscopic / Spectroscopic
+31480,GRB 220117A / 220117A,4.961 / 4.961,ESO VLT UT3 (Melipal) / VLT,Spectroscopic / Spectroscopic
+31800,GRB 211024B / 211024B,z=1.1137+/-0.0002 / 1.1137,ESO's Very Large Telescope (VLT) / VLT,Spectroscopic / Spectroscopic
+32079,GRB 220521A / 220521A,5.6 / 5.6,Nordic  Optical Telescope (NOT) / NOT,Spectroscopic / Spectroscopic
+32099,GCN 32079 / 220521A,5.57 / 5.57,MMT / Gemini-South,Spectroscopic / No Information
+32595,GRB 220611A / 220611A,2.3608 +/- 0.0002 / 2.3608,ESO VLT UT3 (Melipal) / VLT,Spectroscopic / Spectroscopic
+32648,GRB221009A / 221009A,0.151 / 0.151,"X-shooter at ESO's UT3 of the Very Large Telescope (Paranal, Chile) / VLT",Spectroscopic / Spectroscopic
+32686,GRB 221009A / 221009A,0.1505 / 0.1505,GTC (Gran Telescopio de Canarias) / GTC,Spectroscopic / Spectroscopic
+32765,GRB 221009A / 221009A,0.151 / 0.151,ESO VLT UT3 (Melipal) / VLT,Spectroscopic / Spectroscopic
+32928,GRB 221110A / 221110A,4.06 / 4.06,ESO VLT UT3 (Melipal) / VLT,Spectroscopic / Spectroscopic
+33110,GRB 221226B / 221226B,2.694 / 2.694,ESO VLT UT3 (Melipal) / VLT,Spectroscopic / Spectroscopic
+33187,GRB 230116D / 230116D,z = 3.81 / 3.81,BTA SAO RAS telescope equipped with SCORPIO-2 / SAO RAS,Spectroscopic / Spectroscopic
+33521,GRB 230325A / 230325A,z = 1.664 / 1.664,ESO VLT UT3 (Melipal) / VLT,Spectroscopic / Spectroscopic
+33629,GRB 230414B / 230414B,z = 3.568 / 3.568,OSIRIS at the 10.4m GTC telescope / OSIRIS/GTC,Spectroscopic / Spectroscopic
+33749,GRB 230506C / 230506C,3.7<z<~4.0 / 3.7,OHP/T193 / T193-OHP,Spectroscopic / No Information
+34485,GRB 230818A / 230818A,z = 2.42 / 2.42,Nordic Optical Telescope (NOT) / NOT,Spectroscopic / Spectroscopic
