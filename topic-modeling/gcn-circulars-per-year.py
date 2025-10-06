@@ -50,15 +50,15 @@ for f in files:
 # -----------------------------
 years = np.array([ts.year for ts in time_stamps])
 start_year, end_year = years.min(), years.max()
-bins = np.arange(start_year - 0.5, end_year + 1.5, 1)
+# bins = np.arange(start_year - 0.5, end_year + 1.5, 1)
 
 # -----------------------------
 # Step 4: Plot Histogram
 # -----------------------------
 plt.figure(figsize=(10, 6))
-counts, _, _ = plt.hist(
-    years, bins=bins, rwidth=0.8, edgecolor="white", alpha=0.9
-)
+counts, _, _ = plt.hist(years, bins=np.arange(1997, 2027), width=0.8)
+
+# plt.hist(years, bins=bins, rwidth=0.8, edgecolor="white", alpha=0.9)
 
 plt.xlabel("Year", fontsize=18)
 plt.ylabel("GCN Circulars Published Per Year", fontsize=18)
@@ -75,13 +75,13 @@ plt.yticks(fontsize=14)
 plt.plot([2023.3, 2023.3], [0, max(counts) * 2.05], linestyle="--", color="C1")
 plt.annotate(
     "Circular Migration to New GCN",
-    xy=(2015.0, max(counts) * 1.0),
+    xy=(2011.0, max(counts) * 1.0),
     color="C1",
     fontsize=15,
 )
 
 # Y-axis limit
-plt.ylim(0, 3500)
+plt.ylim(0, 3700)
 
 # Remove grid for cleaner look
 plt.grid(False)
