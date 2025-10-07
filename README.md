@@ -14,6 +14,6 @@ Beyond proof of concept, this work contributes to:<br>
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **`data/`**                   | Archived GCN Circulars in JSON format (up to May 2025) and a custom stop-word list for text preprocessing.                       |
 | **`topic-modeling/`**         | Jupyter notebooks for unsupervised topic classification, gravitational-wave–focused analysis, and observational type clustering. |
-| **`information-extraction/`** | Code for the redshift extraction pipeline and evaluation scripts against the Swift Observatory’s manual redshift catalog.      |
+| **`information-extraction/`** | Notebook for the redshift extraction pipeline and evaluation against the Swift Observatory’s manual redshift catalog.            |
 | **`figures/`**                | All figures and plots included in the paper.                                                                                     |
-| **`tables/`**                 | Tabular data products - redshift tables and classified observational and gravitational-wave Circulars.                             |
+| **`tables/`**                 | Tabular data products - redshift tables and classified observational and gravitational-wave Circulars.                           |
