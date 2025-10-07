@@ -4,6 +4,6 @@ This work applies the large language models (LLMs) to the problem of reliably id
 We demonstrates that LLMs, combined with neural topic modeling, contrastive fine-tuning, and retrieval-augmented generation, can classify observations by messenger and waveband, and automatically extract information such as GRB redshifts with high accuracy.
 
 Beyond proof of concept, this work contributes to:<br> 
-(A) Classification of observation types and their tabular data <br>  
+(A) Classification of observation types and their tabular data <br>
 (B) Redshift tables from GCNs <br> 
 (C) Open-source release of all codes
