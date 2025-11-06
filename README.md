@@ -4,7 +4,7 @@
 
 This work applies the large language models (LLMs) to the problem of reliably identifying astrophysical events and extracting structured information from the unstructured text of GCN Circulars. The Circulars archive contains over 40,500 observational reports spanning nearly 30 years with a record of the rich history of discoveries in time-domain and multi-messenger (TDAMM) astronomy. Given the volume and diversity of this dataset, manual extraction of key observational parameters such as redshift, messenger type, and observed wavebands is a challenging task.<br>
 
-We demonstrate that LLMs, combined with neural topic modeling, contrastive fine-tuning, and retrieval-augmented generation (RAG), can classify Circulars by messenger type and observation waveband, and automatically extract information such as gamma-ray bursts (GRBs) redshifts with high accuracy.<br>
+We demonstrate that LLMs, combined with neural topic modeling, contrastive fine-tuning, and retrieval-augmented generation (RAG), can classify Circulars by messenger type and observation waveband, and automatically extract information such as gamma-ray burst (GRB) redshifts with high accuracy.<br>
 
 Beyond proof of concept, this work provides:<br>
 (A) Classification of observation types and their tabular data <br>
